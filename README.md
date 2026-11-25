@@ -24,3 +24,5 @@ daten/video             footprint_zeitverlauf.mp4
 Auf einen anderen Rechner umziehen: Programmordner kopieren und dort `start_…` ausführen.
 Soll der Datenordner woanders liegen (z. B. Netzlaufwerk), die Umgebungsvariable
 `FOOTPRINT_DATEN` auf den Pfad setzen.
+# Bereitstellung
+die Website wurde schon unter **footprintinbwproject.streamlit.app** bereitgestellt.
