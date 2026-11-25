@@ -1,0 +1,11 @@
+streamlit>=1.36
+numpy
+pandas
+scipy
+matplotlib
+contextily
+pyproj
+imageio
+imageio-ffmpeg
+openpyxl
+xlrd
